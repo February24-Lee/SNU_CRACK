@@ -1,0 +1,5 @@
+test-tube==0.7.0
+pytorch-lightning-bolts==0.2.5
+pytorch-lightning==0.10.0
+torchvision==0.8.2
+torch==1.7.1
